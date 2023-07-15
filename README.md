@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anderson Joseph a Frontend Developer, SEO Expert and Tech Trainer from Nigeria
 - 👀 I’m interested in building responsive, beautiful and secured websites.
 - 🌱 I’m currently learning Fullstack Development.
-- 💞️ I’m looking to collaborate on your website porjects and Ideas.
+- 💞️ I’m looking to collaborate on your website projects and Ideas.
 - 📫 Here is how to reach josanderson25@gmail.com
 
 <!---
