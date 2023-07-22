@@ -2,7 +2,7 @@
 - 👀 I’m interested in building responsive, beautiful and secured websites.
 - 🌱 I’m currently learning Fullstack Development.
 - 💞️ I’m looking to collaborate on your website projects and Ideas.
-- 📫 Here is how to reach josanderson25@gmail.com
+- 📫 say hi at andersonjoseph.dev
 
 <!---
 AndersonDesign1/AndersonDesign1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
