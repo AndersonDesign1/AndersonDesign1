@@ -1,7 +1,7 @@
 [![AndersonDesign1/gitartwork](https://github.com/AndersonDesign1/AndersonDesign1/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
-- 👋 Hi, I’m Anderson Joseph a Frontend Developer, SEO Specialist and Instructor from Nigeria
-- 👀 I’m interested in building responsive, beautiful and secured websites.
-- 🌱 I’m currently learning Fullstack Development.
+- 👋 Hi, I’m Anderson Joseph a Full Stack Developer, Web Performance and accessibility expert SEO Specialist and Tech Instructor from Nigeria
+- 👀 I’m interested in providing digital services to brands that increases visibility and overall revenue. I also educate and mentor people with essential skills in web development, SEO, Web Performance and accessibility
+- 🌱 I’m currently learning Project Management.
 - 💞️ I’m looking to work collaborate on your website projects and Ideas.
 - 📫 say hi at https://andersonjoseph.com/
 <!---
