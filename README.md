@@ -8,7 +8,7 @@ I’m interested in providing digital services to brands that increase visibilit
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [andersonjoseph.com](http://andersonjoseph.com/)
-* ✉️  You can contact me at [josanderson25@gmail.com](mailto:josanderson25@gmail.com)
+* ✉️  You can contact me at [hello@andersonjoseph.com](mailto:hello@andersonjoseph.com)
 * 🚀  I'm currently working on [Trashpoint Africa](http://trashpoint.africa/)
 * 🧠  I'm learning Project Management and Astro (a web framework)
 * 🤝  I'm open to collaborating on Web Development and SEO Projects
