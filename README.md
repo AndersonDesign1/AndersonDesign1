@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m interested in providing digital services to brands that increase visibility and overall revenue. I also educate and mentor people with essential skills in Web Development, SEO, Web Performance and Accessibility
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [andersonjoseph.com](http://andersonjoseph.com/)
+* 🖥️  See my portfolio at [andersonjoseph.com](http://www.andersonjoseph.com/)
 * ✉️  You can contact me at [hello@andersonjoseph.com](mailto:hello@andersonjoseph.com)
 * 🚀  I'm currently working on [Trashpoint Africa](http://trashpoint.africa/)
 * 🧠  I'm learning Project Management and Astro (a web framework)
