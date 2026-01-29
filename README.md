@@ -10,7 +10,6 @@ I’m interested in providing digital services to brands that increase visibilit
 * 🛠️ Tech: Next.js, React, Node.js, Astro, SEO, many things Typescript or JavaScript and more
 * 🖥️  See my portfolio at [andersonjoseph.com](http://www.andersonjoseph.com/)
 * ✉️  You can contact me at [josanderson25@gmail.com](mailto:josanderson25@gmail.com)
-* 🧠  I'm learning how to be a design engineer
 * 🤝  I'm open to freelance, contract, or full-time roles in SEO and Web Development
 
 
